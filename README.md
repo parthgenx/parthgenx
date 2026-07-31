@@ -203,14 +203,6 @@ JeevBandhu is a mission-driven platform addressing livestock health, safety, and
 
 ## GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=parthgenx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E2E8F0&ring_color=6D28D9&count_private=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthgenx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&langs_count=8" />
-
-</div>
-
 <br/>
 
 <div align="center">
